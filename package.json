@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-boilerplate-compressor",
+  "description": "todo",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jvdamgaard/nodejs-boilerplate-compressor.git"
+  },
+  "main": "lib/compressor.js",
+  "dependencies": {
+    "less": ">= 1.3.1",
+    "mkdirp": ">= 0.3.1",
+    "crypto": ">= 0.0.3"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
